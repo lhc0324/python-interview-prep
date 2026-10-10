@@ -1,0 +1,11 @@
+# 换行符统一：仓库里一律存 LF，检出到 Windows 时按需转换
+* text=auto
+
+*.py   text eol=lf
+*.md   text eol=lf
+*.json text eol=lf
+
+# 二进制文件不做换行处理
+*.png binary
+*.jpg binary
+*.ico binary

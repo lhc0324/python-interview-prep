@@ -1,0 +1,13 @@
+[
+  {"name": "Tom",   "age": 20, "city": "北京"},
+  {"name": "Amy",   "age": 17, "city": "北京"},
+  {"name": "Bob",   "age": 22, "city": "石家庄"},
+  {"name": "Zoe",   "age": 20, "city": "北京"},
+  {"name": "Jack",  "age": 25, "city": "上海"},
+  {"name": "Lily",  "age": 16, "city": "上海"},
+  {"name": "Mike",  "age": 22, "city": "北京"},
+  {"name": "Frank", "city": "北京"},
+  {"name": "Anna",  "age": 19, "city": "石家庄"},
+  {"name": "David", "age": 30, "city": "上海"},
+  {"name": "Eric",  "age": 20, "city": "石家庄"}
+]
